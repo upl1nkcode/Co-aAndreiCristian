@@ -33,7 +33,7 @@ Always eager to take on challenges that help me grow as a developer and make a r
 
 <br />
 
-#
+---
 
 ## 📚 Courses  
 ### ✅ **Completed (First Semester)**
