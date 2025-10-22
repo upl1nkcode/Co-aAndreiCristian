@@ -29,5 +29,32 @@ Always eager to take on challenges that help me grow as a developer and make a r
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2gq0EJbNr7VkQ0GQ1yQ_Vs3sKZd9yQVP8g&s" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" />
+
 <br />
 
+#
+
+## 📚 Courses  
+### ✅ **Completed (First Semester)**
+- Algebra  
+- Mathematical Analysis  
+- Computer Systems Architecture  
+- Fundamentals of Programming  
+- Computational Logic  
+
+
+### ✅ **Completed (Second Semester)**
+- Operating Systems  
+- Object-Oriented Programming  
+- Data Structures & Algorithms  
+- Geometry  
+- Dynamic Systems  
+- Graph Algorithms
+
+---
+
+### 🔧  Currently working on
+
+- AI vision projects
+- toying with different technologies 
